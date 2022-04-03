@@ -1,5 +1,5 @@
 {
-  "name": "Old Reddit Redirect",
+  "name": "Aliexpress Redirect",
   "description": "Ensure Reddit always loads the old design",
   "version": "1.6.0",
   "manifest_version": 2,
@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://old.reddit.com/*"],
+      "matches": ["*://m.aliexpress.com/*"],
       "css": ["styles.css"],
       "run_at": "document_start"
     }
@@ -18,10 +18,8 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "*://reddit.com/*",
-    "*://www.reddit.com/*",
-    "*://np.reddit.com/*",
-    "*://amp.reddit.com/*",
-    "*://i.reddit.com/*"
+    "*://aliexpress.com/*",
+    "*://www.aliexpress.com/*",
+    "*://m.aliexpress.com/*"
   ]
 }
