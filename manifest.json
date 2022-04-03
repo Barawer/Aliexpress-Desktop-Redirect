@@ -1,8 +1,8 @@
 {
   "name": "Aliexpress Redirect",
-  "description": "Ensure Reddit always loads the old design",
-  "version": "1.6.0",
-  "manifest_version": 2,
+  "description": "Always Load Aliexpress Desktop site",
+  "version": "1.0.0",
+  "manifest_version": 1,
   "background": { "scripts": ["background.js"] },
   "icons": {
     "48": "img/icon48.png",
