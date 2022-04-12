@@ -1,6 +1,6 @@
 # Aliexpress Desktop Redirect
 
-[Chrome extension](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje)
+[Chrome extension] - No support yet
 
 [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aliexpress-desktop-redirect/)
 
